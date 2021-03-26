@@ -85,13 +85,13 @@
 <!-- YOUTUBE:START -->
 
 <tr><td><a href="https://www.youtube.com/watch?v=3Rev3ot-Kio"><img width="140px" src="./imagens/react-introducao.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3Rev3ot-Kio">React Introdução e Estrutura Básica</a><br/>Mar 25, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=3Rev3ot-Kio">React Introdução e Estrutura Básica</a><br/></td></tr>
     
 <tr><td><a href="https://www.youtube.com/watch?v=fqaQEdzoAFg"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fqaQEdzoAFg">Entenda o Estado do React useState usando um Contador</a><br/>Mar 25, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=fqaQEdzoAFg">Entenda o Estado do React useState usando um Contador</a><br/></td></tr>
 
 <tr><td><a href="https://www.youtube.com/watch?v=cx7plz5LjzU"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cx7plz5LjzU">Ciclos de Vida React useEffect na Prática</a><br/>Dec 1, 2020</td></tr>
+<td><a href="https://www.youtube.com/watch?v=cx7plz5LjzU">Ciclos de Vida React useEffect na Prática</a><br/></td></tr>
 
 <!-- YOUTUBE:END -->
 </tbody>
