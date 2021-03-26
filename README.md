@@ -10,7 +10,10 @@
 * 📺 Eu crio tutoriais de desenvolvimento web [YouTube](https://www.youtube.com/channel/UCEC4zjeRMasFf3D0iyw3SHg)
 
 <p align="left">
-  <a href="https://migueldias.net"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://migueldias.net"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
+   <a href="https://www.linkedin.com/in/migueldev"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"/>
+  </a>
 </p>
 
 ## 👨‍💻 Linguagens e Ferramentas:
@@ -87,10 +90,10 @@
 <tr><td><a href="https://www.youtube.com/watch?v=3Rev3ot-Kio"><img width="140px" src="./imagens/react-introducao.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3Rev3ot-Kio">React Introdução e Estrutura Básica</a><br/></td></tr>
     
-<tr><td><a href="https://www.youtube.com/watch?v=fqaQEdzoAFg"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=fqaQEdzoAFg"><img width="140px" src="./imagens/usestate-react.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fqaQEdzoAFg">Entenda o Estado do React useState usando um Contador</a><br/></td></tr>
 
-<tr><td><a href="https://www.youtube.com/watch?v=cx7plz5LjzU"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=cx7plz5LjzU"><img width="140px" src="./imagens/use-effect-react.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cx7plz5LjzU">Ciclos de Vida React useEffect na Prática</a><br/></td></tr>
 
 <!-- YOUTUBE:END -->
